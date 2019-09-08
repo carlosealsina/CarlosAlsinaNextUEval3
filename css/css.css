@@ -1,0 +1,13 @@
+.social{
+  padding: 0;
+}
+.social ul{
+  padding-left:200px;
+}
+.social li{
+  display: inline;
+  font-size: 25px;
+  padding: 5px;
+  float:right;
+}
+
