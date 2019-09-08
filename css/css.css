@@ -1,3 +1,5 @@
+
+@media (min-width:680px){
 .social{
   padding: 0;
 }
@@ -8,6 +10,36 @@
   display: inline;
   font-size: 25px;
   padding: 5px;
-  float:right;
+  
 }
+.headerp{
+	height: 150px;
+}
+.headerlogo{
+	padding: 45px;
+}
+.headersocial{
+	padding-top: 100px;
+	padding-right: 100px;
+}
+}
+@media(max-width: 991px){
+.social li{
+  display: inline;
+  font-size: 25px;
+  padding: 5px;
+}
+.headerlogo{
+	padding: 45px;
+}
+
+.headersocial{
+	padding-top: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+}
+
+
+
 
